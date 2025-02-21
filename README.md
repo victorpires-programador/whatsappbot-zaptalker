@@ -19,4 +19,4 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/WaBot.git
+   git clone https://github.com/victorpires-programador/whatsappbot-zaptalker.git
