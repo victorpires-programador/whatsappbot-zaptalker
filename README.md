@@ -1,6 +1,6 @@
-# WaBot
+# ZapTalker
 
-**WaBot** é um bot de automação para WhatsApp, desenvolvido para responder automaticamente às mensagens dos usuários com base em palavras-chave. Utilizando a biblioteca [Baileys](https://github.com/WhiskeySockets/baileys), o bot conecta-se ao WhatsApp, processa as mensagens recebidas e envia respostas pré-definidas. O objetivo do WaBot é facilitar a comunicação inicial com os usuários, oferecendo respostas rápidas e simples sem a necessidade de intervenção humana.
+**ZapTalker** é um bot de automação para WhatsApp, desenvolvido para responder automaticamente às mensagens dos usuários com base em palavras-chave. Utilizando a biblioteca [Baileys](https://github.com/WhiskeySockets/baileys), o bot conecta-se ao WhatsApp, processa as mensagens recebidas e envia respostas pré-definidas. O objetivo do WaBot é facilitar a comunicação inicial com os usuários, oferecendo respostas rápidas e simples sem a necessidade de intervenção humana.
 
 ## Funcionalidades
 
